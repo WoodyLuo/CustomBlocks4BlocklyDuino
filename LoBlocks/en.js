@@ -1,0 +1,31 @@
+Blockly.Msg["LOBLOCKS"] = "LoBlocks";
+Blockly.Msg["LOMEARM"] = "NTUST meArm";
+Blockly.Msg["LOBLOCKS_HUE"] = "100";
+
+
+Blockly.Msg["TEXT_SET_MEARM_HELP"]="Set servo motor pins of meArm. Base servo move left and right. Shoulder servo move  forword and backword. Elbow servo move up and down. Gripper servo do open and closs.";
+Blockly.Msg["TEXT_SET_MEARM_HELP_URL"]= "https://github.com/WoodyLuo/meArm";
+Blockly.Msg["TEXT_SET_BASE_PIN"]="Start meArm, set pins:  Base";
+Blockly.Msg["TEXT_SET_SHOULDER_PIN"]=", Right-side Shoulder";
+Blockly.Msg["TEXT_SET_ELBOW_PIN"]=", Left-side Elbow";
+Blockly.Msg["TEXT_SET_GRIPPWR_PIN"]=", Gripper";
+Blockly.Msg["TEXT_INI_SET_MEARM_PIN"]="Start meArm, set pins :";
+Blockly.Msg["TEXT_INI_SET_MEARM_RANGE"]="Set initial angle range:";
+Blockly.Msg["TEXT_INI_SET_BASE_PIN"]="Base";
+Blockly.Msg["TEXT_INI_SET_SHOULDER_PIN"]="Right-side Shoulder";
+Blockly.Msg["TEXT_INI_SET_ELBOW_PIN"]="Left-side Elbow";
+Blockly.Msg["TEXT_INI_SET_GRIPPWR_PIN"]="Gripper";
+Blockly.Msg["TEXT_INI_SET_X_MIN"]="x min";
+Blockly.Msg["TEXT_INI_SET_X_MAX"]="x max";
+Blockly.Msg["TEXT_INI_SET_Y_MIN"]="y min";
+Blockly.Msg["TEXT_INI_SET_Y_MAX"]="y max";
+Blockly.Msg["TEXT_INI_SET_Z_MIN"]="z min";
+Blockly.Msg["TEXT_INI_SET_Z_MAX"]="z max";
+Blockly.Msg["TEXT_INI_SET_G_MIN"]="g min";
+Blockly.Msg["TEXT_INI_SET_G_MAX"]="g max";
+Blockly.Msg["TEXT_GET_MEARM_ANGLE_HELP"]="Get current servo motor's angle.";
+Blockly.Msg["TEXT_GET_MEARM_ANGLE"]="Get servo motor's angle: ";
+Blockly.Msg["TEXT_SET_MEARM_ANGLE_HELP"]="Set current servo motor's angle.";
+Blockly.Msg["TEXT_SET_MEARM_ANGLE"]="Set servo motor's angle: ";
+Blockly.Msg["TEXT_MOVE_MEARM"]="Move meArm, set angle:  Base";
+Blockly.Msg["TEXT_MOVE_MEARM_HELP"]="Set servos angle directly, and limited its angle range.";
